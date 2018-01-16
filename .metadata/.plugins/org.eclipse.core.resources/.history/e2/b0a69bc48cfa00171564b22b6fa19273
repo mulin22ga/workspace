@@ -1,0 +1,8 @@
+package exam;
+
+public class Director extends Manager {
+
+	public Director(String name, int money, int plus) {
+		super(name, money, plus);
+	}
+}

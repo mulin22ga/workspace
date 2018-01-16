@@ -1,0 +1,9 @@
+package exam;
+
+public class Employee {
+	int momey;
+
+	public Employee(int money) {
+		this.momey = momey;
+	}
+}

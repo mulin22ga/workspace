@@ -1,0 +1,10 @@
+package exam;
+
+public class Employee {
+	String name;
+	int momey;
+
+	public Employee(String name, int money) {
+		this.momey = momey;
+	}
+}

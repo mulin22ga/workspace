@@ -1,0 +1,16 @@
+package exam;
+
+public class Employee {
+	String name;
+	int momey;
+	
+
+	public Employee(String name, int money) {
+		this.name = name;
+		this.momey = money;
+	}
+
+	public void print() {
+		System.out.println(name + "\t" + momey);
+	}
+}
